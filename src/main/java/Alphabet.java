@@ -9,4 +9,3 @@ class Alphabet extends Thread {
         Alphabet t = new Alphabet();
         t.start();
     }
-}
